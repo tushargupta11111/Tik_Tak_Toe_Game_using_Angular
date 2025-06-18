@@ -20,13 +20,6 @@ This is a simple yet engaging implementation of the classic **Tic Tac Toe** game
 - ✅ Game reset functionality
 - ✅ Responsive design
 
----
-
-## 📸 Screenshots
-
-_Add screenshots here if you have any_
-
----
 
 ## 🔧 Setup Instructions
 
@@ -58,21 +51,11 @@ Open your browser and go to:
 http://localhost:4200/
 
 📂 Project Structure
-bash
-Copy
-Edit
-├── src/
-│   ├── app/
-│   │   ├── components/
-│   │   │   └── tic-tac-toe/
-│   │   │       ├── tic-tac-toe.component.ts
-│   │   │       ├── tic-tac-toe.component.html
-│   │   │       └── tic-tac-toe.component.css
-│   │   └── app.module.ts
-├── assets/
-├── index.html
-└── angular.json
+
+![image](https://github.com/user-attachments/assets/37da223b-a67e-496c-996c-1e10c9e46e1a)
+
 📚 Learning Objectives
+
 Practice building interactive UI with Angular
 
 Understand state management and event handling in components
@@ -80,24 +63,16 @@ Understand state management and event handling in components
 Improve Angular project setup and modular structure
 
 🙌 Contributions
+
 Contributions, issues, and feature requests are welcome!
 Feel free to fork the repo and open a pull request.
 
 🧑‍💻 Author
+
 Tushar Gupta
-GitHub Profile
 
 📄 License
+
 This project is open source and available under the MIT License.
 
-yaml
-Copy
-Edit
 
----
-
-Would you like me to:
-- Auto-generate a `LICENSE` file?
-- Help you add screenshots or deploy it on GitHub Pages?
-
-Let me know and I’ll help with the next step!
